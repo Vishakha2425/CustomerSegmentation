@@ -23,7 +23,11 @@ Spending Score (1-100): Score assigned by the mall based on customer behavior an
 To run this project, you need to have the following Python libraries installed:
 
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 scikit-learn
